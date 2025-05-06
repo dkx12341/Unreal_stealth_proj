@@ -1,2 +1,3 @@
-2025/03/20-16:30:37.279 6528 Creating DB C:/Repos/Unreal_stealth/Unreal_stealth_proj/Stealth_game/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/03/20-16:30:37.288 6528 Reusing MANIFEST C:/Repos/Unreal_stealth/Unreal_stealth_proj/Stealth_game/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/05/06-12:32:21.312 6d60 Reusing MANIFEST C:/Repos/Unreal_stealth/Unreal_stealth_proj/Stealth_game/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/05/06-12:32:21.320 6d60 Recovering log #3
+2025/05/06-12:32:21.321 6d60 Reusing old log C:/Repos/Unreal_stealth/Unreal_stealth_proj/Stealth_game/Saved/webcache_4430\Local Storage\leveldb/000003.log 
