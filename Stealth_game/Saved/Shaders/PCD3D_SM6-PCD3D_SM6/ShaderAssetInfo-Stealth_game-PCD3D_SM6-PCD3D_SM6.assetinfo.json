@@ -86,6 +86,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4E60A439A6E0D58220D99BFFBC2EFB7A3F036E0A",
+			"Assets": [
+				"/Game/Orgin_stuff/StarterContent/Props/Materials/M_Lamp"
+			]
+		},
+		{
 			"ShaderMapHash": "7DB3C63A217EECD88BD671D700A69BF2B8934D1E",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
@@ -104,6 +110,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "EFCD453E2903367B3DBF211414CBA97EFCDCA0B1",
+			"Assets": [
+				"/Game/Assets/Materials/Glowing_Portal"
+			]
+		},
+		{
 			"ShaderMapHash": "F68BDB43EB18AE588F4E6C60EF0D1F178A62884E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
@@ -113,12 +125,6 @@
 			"ShaderMapHash": "03D1974758346450E99FC4CEB8AD67C75230F3F9",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "14987049D8DA80B78314C5398BE9884F26F8B21F",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_Solid"
 			]
 		},
 		{
@@ -366,8 +372,14 @@
 		{
 			"ShaderMapHash": "FA45B7A805BBF288EC567A9562954A898221AB59",
 			"Assets": [
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
+				"/Game/Assets/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/Orgin_stuff/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_02"
+			]
+		},
+		{
+			"ShaderMapHash": "246E69A9DDDAC81C3AF2BD6956CB7BA6965082E1",
+			"Assets": [
+				"/Game/Orgin_stuff/StarterContent/Props/Materials/M_TableRound"
 			]
 		},
 		{
@@ -401,6 +413,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "21C33CB655506209B8FFFC909A27B1AC84E27111",
+			"Assets": [
+				"/Game/Orgin_stuff/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
 			"ShaderMapHash": "6C687CB7F0A6B1C006AFCEBB6D10215236B3C1A6",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -413,9 +431,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9A8304BA9734CAAEA86FE715DCDC204B3F9A9EE9",
+			"Assets": [
+				"/Game/Orgin_stuff/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
 			"ShaderMapHash": "19AF08BB735D63C12774701BC0C2C447B5DA4F7B",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "22849ABD2090F689F36D8797A6F3447FC3ECF503",
+			"Assets": [
+				"/Game/Orgin_stuff/StarterContent/Props/Materials/M_Chair"
 			]
 		},
 		{
@@ -464,12 +494,6 @@
 			"ShaderMapHash": "CBFB51D59FA356821CA77FD1E7CE15832D00AABB",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "3C9910D6D7F469691C883318A4D7361AF273DEC5",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
 			]
 		},
 		{
@@ -547,8 +571,8 @@
 		{
 			"ShaderMapHash": "4D5A66E84F3FD1EC8AEBFA64576717C9C7A1B23C",
 			"Assets": [
-				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
-				"/Game/Characters/Mannequins/Materials/M_Mannequin",
+				"/Game/Assets/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01",
+				"/Game/Assets/Characters/Mannequins/Materials/M_Mannequin",
 				"/Game/Orgin_stuff/FirstPersonArms/Character/Materials/Instances/Manny/MI_Manny_01",
 				"/Game/Orgin_stuff/FirstPersonArms/Character/Materials/M_Mannequin"
 			]
@@ -587,6 +611,12 @@
 			"ShaderMapHash": "2EDD26FBF47B3D2A840F3F774EBB87A78953A160",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialRoundedSlider"
+			]
+		},
+		{
+			"ShaderMapHash": "D0CC5CFB7F7C80AF81339D52D7FD8D97CD2BBBF6",
+			"Assets": [
+				"/Game/Orgin_stuff/StarterContent/Materials/M_Glass"
 			]
 		},
 		{
